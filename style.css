@@ -67,3 +67,61 @@ span{
     visibility: visible;
     opacity: 1;
  }
+ .nav-txt-mac:hover~ .hover-section-mac{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-ipad:hover~ .hover-section-ipad{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-iphone:hover~ .hover-section-iphone{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-watch:hover~ .hover-section-watch{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-vision:hover~ .hover-section-vision{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-airpods:hover~ .hover-section-airpods{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-tv:hover~ .hover-section-tv{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-entm:hover~ .hover-section-entm{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-access:hover~ .hover-section-access{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ .nav-txt-support:hover~ .hover-section-support{
+   height: 350px;
+   visibility: visible;
+   opacity: 1;
+ }
+ 
+   .nav-txt-cart:hover~ .hover-section-cart{
+      height: 350px;
+      visibility: visible;
+      opacity: 1;
+ }
+ 
+ 
