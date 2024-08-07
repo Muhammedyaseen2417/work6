@@ -13,7 +13,7 @@ nav{
 }
 
 span{
-    margin: 3px;
+    margin: 25px;
     font-size: 10px;
     font-weight: bold;
     padding-left: 45px;
@@ -122,6 +122,58 @@ span{
       height: 350px;
       visibility: visible;
       opacity: 1;
+ }
+ .head{
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+  font-style: normal;
+ /*border: 2px solid yellow;*/
+  padding: 70px 70px 3px 70px;
+  margin: 5px;
+ }
+ .p{
+  text-align: center;
+  border: 1px;
+  padding: 0px 3px 3px 3px;
+ }
+ .button{
+  text-align: center;
+  padding: 5px;
+ }
+ #btn1{
+  text-align: center;
+  padding: 4px;
+  border-radius: 250px;
+  color: white;
+  background-color: rgb(20, 93, 177);
+  font-style: normal;
+  width: 120px;
+  height: 50px;
+  
+
+ }
+ #btn2{
+  text-align: center;
+  background-color: black;
+  border: 2px solid lightskyblue;
+  border-radius: 20px;
+  font-style: normal;
+  color: lightskyblue;
+  width: 80px;
+  height: 40px;
+ }
+ .iamge{
+  background-image: url(./images/pexels-japy-4071887\ \(1\).jpg);
+  width: 100%;
+  height: 90%;
+  background-size: cover;
+ }
+ .image2{
+  background-image: url(./images/pexels-vie-studio-8148581.jpg);
+  width: 100%;
+  height: 90%;
+  background-size: cover;
  }
  
  
